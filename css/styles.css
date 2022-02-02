@@ -1,0 +1,41 @@
+body{
+  background-color: #d6e2f0;
+  text-align: center;
+}
+
+.second-container{
+  background-color: white;
+  border-radius: 20px;
+  height: 450px;
+  width: 20%;
+  display: inline-block;
+  margin: 90px;
+}
+
+.code
+{
+  width:85%;
+  padding:20px;
+  border-radius: 30px;
+}
+
+h3
+{
+  color: #1f3251;
+  font-family: 'Outfit', sans-serif;
+  text-align: center;
+  font-weight: 700;
+  width: 88%;
+  margin: auto;
+}
+
+p{
+  color: #7b879d;
+  font-family: 'Outfit', sans-serif;
+  font-size: 15px;
+  width: 78%;
+  margin: auto;
+  font-weight: 400;
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
